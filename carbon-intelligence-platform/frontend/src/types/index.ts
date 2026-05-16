@@ -1,0 +1,5 @@
+export type EmissionRecord = { date:string; facility_id:string; facility_name:string; region:string; department:string; electricity_kwh:number; renewable_kwh:number; scope1_tco2e:number; scope2_tco2e:number; scope3_tco2e:number; total_tco2e:number; carbon_intensity:number; production_output_tons:number };
+export type KPIResponse = { total_emissions_tco2e:number; net_emissions_tco2e:number; renewable_share_pct:number; carbon_intensity_tco2e_per_ton:number; net_zero_progress_pct:number; offsets_tco2e:number };
+export type ScopeSummary = { scope:string; total_tco2e:number; by_facility:Record<string,number>; by_department:Record<string,number>; leading_sources:Record<string,number> };
+export type ForecastResponse = { mae:number; rmse:number; horizon_days:number; forecast:{date:string; predicted_emissions_tco2e:number; predicted_energy_kwh:number}[] };
+export type Alert = { date:string; facility_id:string; severity:string; category:string; message:string; observed_value:number; baseline_value:number };

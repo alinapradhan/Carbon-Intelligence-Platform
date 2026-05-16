@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{font-family:Inter,ui-sans-serif,system-ui;background:#07111f;color:#e5f7ff}.glass{background:linear-gradient(145deg,rgba(15,31,50,.92),rgba(8,17,31,.82));border:1px solid rgba(0,255,185,.16);box-shadow:0 12px 40px rgba(0,0,0,.3)}
