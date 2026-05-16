@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { siemens: { cyan:'#00ffb9', blue:'#0099cb', steel:'#1f2937', navy:'#07111f' } }, boxShadow:{ glow:'0 0 24px rgba(0,255,185,.18)' } } }, plugins: [] };
