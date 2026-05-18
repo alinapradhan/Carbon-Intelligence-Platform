@@ -3,7 +3,7 @@
 A local-only carbon emissions analytics and sustainability intelligence platform for industrial facilities, manufacturing campuses, and power-grid-connected operations. The repository is designed as a portfolio-quality implementation that demonstrates clean architecture, carbon accounting, ESG analytics, AI forecasting, anomaly detection, and modern industrial dashboard engineering.
 
 > This project intentionally avoids deployment infrastructure, cloud hosting, Kubernetes, Docker orchestration, authentication systems, CI/CD pipelines, and enterprise production setup. It focuses on local development and code implementation.
-
+ 
 ## Features
   
 - Full Scope 1, Scope 2, and Scope 3 carbon emissions tracking.
