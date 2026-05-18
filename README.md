@@ -6,7 +6,7 @@ A local-only carbon emissions analytics and sustainability intelligence platform
  
 ## Features
   
-- Full Scope 1, Scope 2, and Scope 3 carbon emissions tracking.
+- Full Scope 1, Scope 2, and Scope 3 carbon emissions tracking. 
 - Synthetic industrial telemetry for factories and energy-intensive manufacturing systems.
 - Configurable emission-factor based carbon calculation engine.
 - Facility-wise, department-level, and source-level emissions analytics.
