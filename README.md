@@ -5,7 +5,7 @@ A local-only carbon emissions analytics and sustainability intelligence platform
 > This project intentionally avoids deployment infrastructure, cloud hosting, Kubernetes, Docker orchestration, authentication systems, CI/CD pipelines, and enterprise production setup. It focuses on local development and code implementation.
 
 ## Features
- 
+  
 - Full Scope 1, Scope 2, and Scope 3 carbon emissions tracking.
 - Synthetic industrial telemetry for factories and energy-intensive manufacturing systems.
 - Configurable emission-factor based carbon calculation engine.
